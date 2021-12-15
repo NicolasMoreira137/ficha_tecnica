@@ -2,11 +2,37 @@
     Display: inline-block;
     margin-left: 50px;
     margin-bottom: 50px;
+    margin-top: 50px;
     }
 
-.container{
-    background-color:rgb(214, 207, 214);
-    border-style:solid;
-    border-color:black;
+#cabecalho{
+    background-color:gray;
+    height: 150px;
 
+}
+
+
+#textos{
+    color:white;
+    top: 50px;
+    left: 200px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: grey;
+    border-color: grey;
+}
+.btn{
+    background-color: grey;
+    border-color: grey;
+    
+}
+
+#eu{
+    position:absolute;
+    top: 20px;
+    right: 40px;
+    width: 150px;
+    border-radius: 10px;
 }
