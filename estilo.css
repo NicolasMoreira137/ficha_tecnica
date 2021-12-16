@@ -59,3 +59,45 @@ h2 {
     color: white;
     padding-top: 20px;
 }
+
+.informacoes {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#imagem-perfil {
+    border-radius: 10px;
+}
+
+
+
+.background {
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: grey;
+    border-radius: 10px;
+    border-color: black;
+}
+
+
+
+
+.informacoes h3, h4 {
+    text-align: center;
+}
+
+.informacoes h3 {
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.informacoes p {
+    height: 50px;
+    margin-left: 7.5%;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
